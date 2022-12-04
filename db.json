@@ -4,13 +4,7 @@
         {
         "title":"task-1",
         "status": false,
-        "id":"Kaushik Biswas Kaushik Biswas Kaushik Biswas Kaushik Biswas"
+        "id":"Kaushik Biswas"
         }
-    ],
-    "products":[
-        {
-            "name":"Kaushik Biswas"
-        }
-    ],
-    "inventory":[]
+    ]
 }

@@ -38,11 +38,13 @@ let card = (todo)=>{
     let div=document.createElement("div");
     let h3=el("h3");
     let p=el("p");
+    
     let delbtn=el("button");
     let togbtn=el("button");
 
     h3.innerText=todo.title;
     p.innerText=todo.status;
+    
     delbtn.innerText="Delete";
     togbtn.innerText="Toggle";
 
